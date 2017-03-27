@@ -27,7 +27,7 @@ FRAMES.XML constains the speed a quantity of frames will be played till a frame-
 <p align="center"><img src="http://image.prntscr.com/image/7547848ed83742c0aee02dd7f6cba3d1.png"/></p>
 
 INFO.XML contains infos about the video, such as the version (of the format), credits, main language, if it is fictional, indicative rating, if it is paid and if it is a muted-loop video (alternative to GIF).
-<p align="center"><img src=""/></p>
+<p align="center"><img src="http://image.prntscr.com/image/0f3601c964944b15bb82f6b8da3a29d9.png"/></p>
 
 TAGS.XML contains the type of tag and the time it will be played.
 <p align="center"><img src=""/></p>
