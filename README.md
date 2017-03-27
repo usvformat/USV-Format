@@ -24,7 +24,7 @@ AUDIO.XML contains the time each audio will be played. In case of only one audio
 <p align="center"><img src="http://image.prntscr.com/image/a10329b5e56e485f8179adfeaee2f558.png"/></p>
 
 FRAMES.XML constains the time a quantity of frames will be played till a frame-number.
-<p align="center"><img src=""/></p>
+<p align="center"><img src="http://image.prntscr.com/image/7547848ed83742c0aee02dd7f6cba3d1.png"/></p>
 
 INFO.XML contains infos about the video, such as the version (of the format), credits, main language, if it is fictional, indicative rating, if it is paid and if it is a muted-loop video (alternative to GIF).
 <p align="center"><img src=""/></p>
