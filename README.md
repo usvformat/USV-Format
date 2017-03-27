@@ -30,4 +30,4 @@ INFO.XML contains infos about the video, such as the version (of the format), cr
 <p align="center"><img src="http://image.prntscr.com/image/0f3601c964944b15bb82f6b8da3a29d9.png"/></p>
 
 TAGS.XML contains the type of tag and the time it will be played.
-<p align="center"><img src=""/></p>
+<p align="center"><img src="http://image.prntscr.com/image/3413e67a5f5a4fa4967fd29bdb5f6a4c.png"/></p>
