@@ -21,9 +21,13 @@ The IMG folder contains the images that will be used in the video, such as tags,
 Files:
 
 AUDIO.XML contains the time each audio will be played. In case of only one audio file, a unique tag will tell that it will start at 00:00.
+<p align="center"><img src="http://image.prntscr.com/image/a10329b5e56e485f8179adfeaee2f558.png"/></p>
 
 FRAMES.XML constains the time a quantity of frames will be played till a frame-number.
+<p align="center"><img src=""/></p>
 
 INFO.XML contains infos about the video, such as the version (of the format), credits, main language, if it is fictional, indicative rating, if it is paid and if it is a muted-loop video (alternative to GIF).
+<p align="center"><img src=""/></p>
 
 TAGS.XML contains the type of tag and the time it will be played.
+<p align="center"><img src=""/></p>
