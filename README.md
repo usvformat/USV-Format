@@ -7,6 +7,7 @@ Do you imagine if we have the power of <a href="https://youtube.com" target="bla
 <p align="center"><img width="300px" src="http://i.imgur.com/iIvVFpt.png"/></p>
 A .USV file is just a compressed archive with the extension changed, containing this structure:
 <p align="center"><img width="800px" src="http://image.prntscr.com/image/dc79febda9bc4c7ea58745be539e701d.png"/></p>
+
 The images/frames can be in both PNG or SVG, and the audios in both OGG or FLAC. All other infos are stored in XML files.
 
 Folders:
