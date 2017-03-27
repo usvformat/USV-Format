@@ -8,12 +8,21 @@ Do you imagine if we have the power of <a href="https://youtube.com" target="bla
 A .USV file is just a compressed archive with the extension changed, containing this structure:
 <p align="center"><img width="800px" src="http://image.prntscr.com/image/dc79febda9bc4c7ea58745be539e701d.png"/></p>
 The images/frames can be in both PNG or SVG, and the audios in both OGG or FLAC. All other infos are stored in XML files.
+
 Folders:
+
 AUDIO folder contains the audio files (or a unique audio file) or the language folders containing the respective audios.
+
 Except the files (images), the same occurs in the FRAMES folder.
+
 The IMG folder contains the images that will be used in the video, such as tags, the thumbnail, etc.
+
 Files:
+
 AUDIO.XML contains the time each audio will be played. In case of only one audio file, a unique tag will tell that it will start at 00:00.
+
 FRAMES.XML constains the time a quantity of frames will be played till a frame-number.
+
 INFO.XML contains infos about the video, such as the version (of the format), credits, main language, if it is fictional, indicative rating, if it is paid and if it is a muted-loop video (alternative to GIF).
+
 TAGS.XML contains the type of tag and the time it will be played.
