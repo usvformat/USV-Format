@@ -14,7 +14,7 @@ Folders:
 
 AUDIO folder contains the audio files (or a unique audio file) or the language folders containing the respective audios.
 
-Except the files (images), the same occurs in the FRAMES folder.
+Except the files (images), the same occurs in the FRAMES folder. The files need to be named in crescent numbers.
 
 The IMG folder contains the images that will be used in the video, such as tags, the thumbnail, etc.
 
