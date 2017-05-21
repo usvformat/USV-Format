@@ -1,2 +1,8 @@
 This file shows the Namecoin's transaction ID containing the hash of previous commit. It is for registering/copyright purposes.
 Previous commit Namecoin tx ID: 59c562944b11c9dbc34fd1249360baa9577ac762e05c9d9d4434fed7812b16bb
+Address/Name/Domain: usvformat.bit
+Namecoin address: N3qN7PeHjHViLmrmPHcADJsWn1fKFsdHNK
+Owner: Plasmmer
+Message: 
+I'm Plasmmer. I was born with the full name Daniell Wilson Jose Mesquita, on the city of Cascavel, state of Parana, in Brazil. I declare I'm owner of this Namecoin address and of any copyrights/registers I do by using file hash codes in transactions. Also, I declare I'm owner of the Namecoin address usvformat.bit, wich was transferred to this address.
+Signature: Hy9y7DTumV+kj0qGsS9vy2S+kk9T14fdWeS1zR42SSLhcMq+jBRex+EpfDMCV/96Oes8ymhpdTqvKTiiOCzbXNU=
