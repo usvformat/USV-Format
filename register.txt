@@ -1,0 +1,2 @@
+This file shows the Namecoin's transaction ID containing the hash of previous commit. It is for registering/copyright purposes.
+Previous commit Namecoin tx ID: 59c562944b11c9dbc34fd1249360baa9577ac762e05c9d9d4434fed7812b16bb
