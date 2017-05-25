@@ -3,7 +3,8 @@
 <framebg i="restoreprevious"></framebg>
 <thumbnail i="frames/1.png"></thumbnail>
 <credits><i c="This video and the format" by="plasmmer"></i></credits>
-<language ="en-us"></language>
+<defaultlanguage ="pt-br"></defaultlanguage>
+<languages ="pt-br"></languages>
 <fiction i="yes"></fiction>
 <indicativerating type="br" i="l"></indicativerating>
 <paid i="no"></paid>
