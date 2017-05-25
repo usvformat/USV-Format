@@ -1,0 +1,10 @@
+<version i="1"></version>
+<thumbnail i="frames/1.png"></paid>
+<credits><i c="This video and the format" by="plasmmer"></i></credits>
+<language ="en-us"></language>
+<fiction i="yes"></fiction>
+<indicativerating type="br" i="l"></indicativerating>
+<paid i="no"></paid>
+<mutedloop i="yes"></mutedloop>
+<license link="https://creativecommons.org/licenses/by/3.0/legalcode"></license>
+<framebg i="restoreprevious"></framebg>
