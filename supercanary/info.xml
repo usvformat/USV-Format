@@ -1,5 +1,6 @@
 <version i="1"></version>
 <mutedloop i="yes"></mutedloop>
+<framebg i="restoreprevious"></framebg>
 <thumbnail i="frames/1.png"></thumbnail>
 <credits><i c="This video and the format" by="plasmmer"></i></credits>
 <language ="en-us"></language>
@@ -7,4 +8,3 @@
 <indicativerating type="br" i="l"></indicativerating>
 <paid i="no"></paid>
 <license link="https://creativecommons.org/licenses/by/3.0/legalcode"></license>
-<framebg i="restoreprevious"></framebg>
