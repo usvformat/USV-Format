@@ -1,5 +1,5 @@
 This file shows the Namecoin's transaction ID containing the hash of previous commit. It is for registering/copyright purposes.
-Namecoin transaction ID with previous commit hash: f348f13157efd6fb68306ed55c16e132afb2ee139a7b2795327c7350cc316549
+Namecoin transaction ID with previous commit hash: 9816b2992c7e4a782c5bcdaed283e419fb3a8d4a142a63bf202e9f3c2bc88f37
 Address/Name/Domain: usvformat.bit
 Owner: Plasmmer
 Namecoin transaction ID with Ownership proof: 36325b32e103a90625b5b540bbea74bbb660c41bc3541144cf3bea0d42aee9b3
