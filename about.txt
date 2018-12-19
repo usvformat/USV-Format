@@ -9,6 +9,9 @@ USV 2.0:
 More than one tag to declare which speed of playing and till which frame (speed can change according to in which frames it is playing), audio.xml and audio folder, can play more than one audio from the same begin and set in which frames each audio stops, thumbnails can be SVG files, blockscreens, like/dislike button, subscribe button, cards, annotations, links of videos/playlists/channels, endscreens
 
 USV 3.0:
-.JSON, multilanguage for audio folder, thumbnail, video metadata, and XML; CSS animations, programmation, inter-frame compression, AV1.
+.JSON;
+video player in HTML;
+multilanguage for audio folder, thumbnail, video metadata, and XML;
+CSS animations, programmation, inter-frame compression, AV1;
 Blockscreen with GIF and items (if like and subs, show also dslk and unsbs)
-can also use other gifs and audios
+can also use other gifs and audios;
