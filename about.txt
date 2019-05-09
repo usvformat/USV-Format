@@ -3,10 +3,16 @@ But on P2P you can't handle updates of a compressed file.
 Because of it, .USV files will be used just for transfers/downloads. But inside ZN, .USV files will be decompressed and distributed/managed as folders and individual files by data/content.json. git archive will also be used.
 
 USV 1.0:
-Supports muted-loop videos, with framebg settings, video original language, indicative rating, boolean if its paid, boolean if its fictional, license and credits. And basically, can set the video speed and till which frame it is played, and metadata of videos.
+Supports loop videos (USVL)
+indicative rating
+boolean if its paid
+boolean if its fictional (or hybrid)
+license
+credits
+And basically, can set the video speed and till which frame it is played, and metadata of videos.
 
 USV 2.0:
-More than one tag to declare which speed of playing and till which frame (speed can change according to in which frames it is playing), audio.xml and audio folder, can play more than one audio from the same begin and set in which frames each audio stops, thumbnails can be SVG files, blockscreens, like/dislike button, subscribe button, cards, annotations, links of videos/playlists/channels, endscreens
+More than one tag to declare which speed of playing and till which frame (speed can change according to in which frames it is playing), audio.xml and audio folder, can play more than one audio from the same begin and set in which frames each audio stops, blockscreens, like/dislike button, watch later button on card videos, subscribe button, cards, annotations, links of videos/playlists/channels, endscreens, framebg settings, video original language
 
 USV 3.0:
 .JSON;
