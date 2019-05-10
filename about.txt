@@ -4,20 +4,157 @@ Because of it, .USV files will be used just for transfers/downloads. But inside 
 
 USV 1.0:
 Supports loop videos (USVL)
-indicative rating
-boolean if its paid
-boolean if its fictional (or hybrid)
 license
 credits
-And basically, can set the video speed and till which frame it is played, and metadata of videos.
+video player in HTML
+And basically, can set the video speed and till which frame it is played, and metadata of videos
+
+USV 1.1:
+boolean if its paid
+boolean if its fictional (or hybrid)
+thumbnail
+indicative rating
 
 USV 2.0:
-More than one tag to declare which speed of playing and till which frame (speed can change according to in which frames it is playing), audio.xml and audio folder, can play more than one audio from the same begin and set in which frames each audio stops, blockscreens, like/dislike button, watch later button on card videos, subscribe button, cards, annotations, links of videos/playlists/channels, endscreens, framebg settings, video original language
+More than one tag to declare which speed of playing and till which frame (speed can change according to in which frames it is playing), audio.xml and audio folder, can play more than one audio from the same begin and set in which frames each audio stops
+
+USV 2.1:
+blockscreens, like/dislike button, watch later button on card videos, subscribe button, cards, annotations, links of videos/playlists/channels, endscreens, framebg settings, video original language
 
 USV 3.0:
-.JSON;
-video player in HTML;
-multilanguage for audio folder, thumbnail, video metadata, and XML;
-CSS animations, programmation, inter-frame compression, AV1;
+.JSON
+multilanguage for audio folder, video metadata, and XML
+CSS animations, programmation, inter-frame compression, AV1
 Blockscreen with GIF and items (if like and subs, show also dslk and unsbs)
-can also use other gifs and audios;
+can also use other gifs and audios
+
+
+
+
+
+Second part of the first USV loop: 2,24 MB (USV) - 667 KB (original)
+
+First part (Super Canarinho)
+
+USV JPG: 730 KB
+Original: 359 KB
+USV opt-PNG bg-clipping: 1,19 MB
+GIF strip/sprite: 1,58 MB
+
+Workaround to achieve 359 KB and lower:
+Convert JPG to background-clipping image and apply chromakey color over transparent, and convert it to BMP/WEBP
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats
+https://m.slashdot.org/story/346584
+
+pico PC
+
+
+8640p 16K
+4320p 8K
+2160p 4K
+1080p HD
+720p HD
+480p
+360p
+240p
+QCIF
+SQCIF
+Auto
+
+Have original, but edit the SQCIF and export to all other
+
+
+XML format for video infos
+First USV, working as a GIF
+PoC player reading USV video infos and showing its frames
+
+
+
+
+Then, the next step will be USV videos with audio and annonations/blockscreen at marked time
+And also XML subtitles and custom audios for localization
+
+
+
+
+http://usv.js.org/ in github
+
+
+
+
+
+
+https://gateway.pinata.cloud/ipfs/QmdF9ZieRVbX7YSPdWxRmjWouZVs7QGcAnbQfbEP3SPRqr
+https://gateway.pinata.cloud/ipfs/QmTcZtiKT4Pyw4uuEmnHwU4uzL2tqibY1veEiBtqRxiaHo
+
+TIM Act
+Kxo
+Google and its SPDY
+FMWK ZN plugin message
+
+npm-audit
+
+
+
+
+
+
+switch theme
+search by image
+dapper
+IPFS
+Dat
+
+
+
+
+
+
+
+http://web.archive.org/web/20190510141652/https://www.pandastrike.com/posts/20151105-in-defense-of-javascript/
+http://web.archive.org/web/20190510150147/https://www.akawebdesign.com/2011/10/11/a-rant-in-defense-of-javascript/
+http://web.archive.org/web/20190510150345/http://2ality.com/2013/07/defending-constructors.html
+http://web.archive.org/web/20190510145913/https://www.vice.com/en_us/article/d7yv7v/in-defense-of-javascript
+http://web.archive.org/web/20190510151115/https://www.simplytechnologies.net/blog/2018/4/11/why-is-javascript-so-popular
+http://web.archive.org/web/20190510151629/https://blog.reactiveconf.com/5-reasons-why-javascript-is-eating-the-world-bbc4aca0a527?gi=380fc8d51e09
+http://web.archive.org/web/20190510152347/https://hackernoon.com/the-javascript-phenomenon-is-a-mass-psychosis-57adebb09359?gi=91f81f130712
+http://web.archive.org/web/20190510152400/https://stackoverflow.com/questions/7022007/what-is-native-javascript
+http://web.archive.org/web/20190510152418/https://www.developereconomics.com/why-javascript-will-win-on-mobile
+
+
+
+
+
+<meta content="width=device-width,initial-scale=1,minimal-ui,shrink-to-fit=no,user-scalable=no" name="viewport">
+  <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+  <link rel="icon" href="icon.ico" type="image/x-icon">
+
+[ok] op
+
+
+
+
+
+
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/quarto-mobiliado-603562951
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/casa-no-tatuquara-nao-respondo-chat-604595937
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/alugo-kitinete-604205065
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/aluga-se-kitchenettes-mobiliadas-em-curitiba-no-bairro-cajuru-382810916
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/pensao-anderson-603764140
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/quarto-mobiliado-enfrente-ao-supermercado-extra-da-kennedy-partir-de-r-350-00-998170002-603252126
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/quarto-no-boqueirao-carmo-605763864
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/quarto-mobiliado-rua-nicola-pellanda-606403012
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/aluga-se-casa-606676555
+https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/casa-no-sitio-cercado-607150959
+
+
+
+
+
+
+
+
+
+
+

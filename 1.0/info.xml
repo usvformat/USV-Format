@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usv-version>1.0</usv-version>
 <loop>yes</loop>
-<lang>pt-br</lang>
 <indicativerating type="br" i="l"></indicativerating>
-<paid>no</paid>
-<fiction>hybrid</fiction>
 <license>https://creativecommons.org/licenses/by/3.0/legalcode</license>
