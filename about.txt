@@ -6,7 +6,6 @@ USV 1.0:
 Supports loop videos (USVL)
 license
 credits
-video player in HTML
 And basically, can set the video speed and till which frame it is played, and metadata of videos
 
 USV 1.1:
@@ -19,7 +18,7 @@ USV 2.0:
 More than one tag to declare which speed of playing and till which frame (speed can change according to in which frames it is playing), audio.xml and audio folder, can play more than one audio from the same begin and set in which frames each audio stops
 
 USV 2.1:
-blockscreens, like/dislike button, watch later button on card videos, subscribe button, cards, annotations, links of videos/playlists/channels, endscreens, framebg settings, video original language
+video player in HTML, blockscreens, like/dislike button, watch later button on card videos, subscribe button, cards, annotations, links of videos/playlists/channels, endscreens, framebg settings, video original language
 
 USV 3.0:
 .JSON
