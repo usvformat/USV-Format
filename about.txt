@@ -2,30 +2,42 @@ USV files needs to be able to be updated when needed, as it stores lots of data.
 But on P2P you can't handle updates of a compressed file.
 Because of it, .USV files will be used just for transfers/downloads. But inside ZN, .USV files will be decompressed and distributed/managed as folders and individual files by data/content.json. git archive will also be used.
 
+USV 0.1:
+license (USV 1.0)
+credits (USV 1.0)
+<contain> tag, for video
+boolean if its paid (USV 1.0)
+boolean if its fictional (or hybrid) (USV 1.0)
+thumbnail (USV 1.1)
+indicative rating (USV 1.1)
+audio.xml and audio folder, can play more than one audio from the same begin and set in which time each audio stops (USV 2.0)
+blockscreens (USV 2.1)
+like/dislike button (USV 2.1)
+subscribe button, cards, annotations, links of videos/playlists/channels, endscreens (USV 2.1)
+video original language (USV 2.1)
+multilanguage for audio folder, video metadata, thumbnail and XML (USV 3.0)
+Blockscreen with GIF and items (if like and subs, show also dslk and unsbs) can also use other gifs and audios (USV 3.0)
+CSS animations (USV 3.0)
+
 USV 1.0:
 Supports loop videos (USVL)
-license
-credits
 And basically, can set the video speed and till which frame it is played, and metadata of videos
 
-USV 1.1:
-boolean if its paid
-boolean if its fictional (or hybrid)
-thumbnail
-indicative rating
+USV 1.1
 
 USV 2.0:
-More than one tag to declare which speed of playing and till which frame (speed can change according to in which frames it is playing), audio.xml and audio folder, can play more than one audio from the same begin and set in which frames each audio stops
+More than one tag to declare which speed of playing and till which frame (speed can change according to in which frames it is playing)
 
 USV 2.1:
-video player in HTML, blockscreens, like/dislike button, watch later button on card videos, subscribe button, cards, annotations, links of videos/playlists/channels, endscreens, framebg settings, video original language
+video player in HTML, watch later button on card videos, framebg settings
 
 USV 3.0:
 .JSON
-multilanguage for audio folder, video metadata, and XML
-CSS animations, programmation, inter-frame compression, AV1
-Blockscreen with GIF and items (if like and subs, show also dslk and unsbs)
-can also use other gifs and audios
+programmation, inter-frame compression, AV1
+
+Imachug: Have you thought about splitting archives to support better compression algorithms that don't support streaming?
+
+Imachug: Should there be any fallback videos in case some format isn't supported by the client?
 
 
 
@@ -129,23 +141,7 @@ http://web.archive.org/web/20190510152418/https://www.developereconomics.com/why
   <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
   <link rel="icon" href="icon.ico" type="image/x-icon">
 
-[ok] op
-
-
-
-
-
-
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/quarto-mobiliado-603562951
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/casa-no-tatuquara-nao-respondo-chat-604595937
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/alugo-kitinete-604205065
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/aluga-se-kitchenettes-mobiliadas-em-curitiba-no-bairro-cajuru-382810916
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/pensao-anderson-603764140
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/quarto-mobiliado-enfrente-ao-supermercado-extra-da-kennedy-partir-de-r-350-00-998170002-603252126
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/quarto-no-boqueirao-carmo-605763864
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/quarto-mobiliado-rua-nicola-pellanda-606403012
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/aluga-se-casa-606676555
-https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/casa-no-sitio-cercado-607150959
+[ok] op, link, abcs
 
 
 
@@ -157,3 +153,22 @@ https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/imoveis/casa-no-sitio-cerca
 
 
 
+
+
+
+
+http://127.0.0.1:43110/1LULE6frq3kw2vbhe4i6ArUTo4YT99Czbj/?Topic:1_136Hmmoi4fsnWBLgT9ij3KKgodsHmrTGY6
+
+http://127.0.0.1:43110/1LULE6frq3kw2vbhe4i6ArUTo4YT99Czbj/?Topic:2_136Hmmoi4fsnWBLgT9ij3KKgodsHmrTGY6
+
+http://127.0.0.1:43110/1LULE6frq3kw2vbhe4i6ArUTo4YT99Czbj/?Topic:3_136Hmmoi4fsnWBLgT9ij3KKgodsHmrTGY6
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RPBWBDBKW62AC
+
+https://www.mercadopago.com.br/ajuda/telefone-contato/sac
+
+http://web.archive.org/web/20190511212750/https://www.mercadolivre.com.br/ajuda/ayuda/contactForm?form_id=173
+
+I:\C\rec tw\new\new rec app\ct\vz\Nova pasta\new\new\vz orrrrrrr\Nova pasta\new\bqr\bairro alt - emrs wlkmn - psml\new\vldr\VLDR, IMP\New\New folder\VLDR Emer defend
+C:\Users\Notebook Positivo\Desktop\USV blog\new
+C:\Users\Notebook Positivo\Desktop\bttery
