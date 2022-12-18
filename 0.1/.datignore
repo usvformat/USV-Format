@@ -1,0 +1,13 @@
+.git
+.dat
+node_modules
+*.mp4
+*.mp3
+*.ogg
+*.flac
+*.png
+*.jpg
+*.bmp
+*.log
+**/.DS_Store
+Thumbs.db

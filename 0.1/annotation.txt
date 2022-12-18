@@ -1,0 +1,27 @@
+Tasks:
+
+events.json:
+pending: "blockscreen":"url" <---- add URL
+<ti i="0"><blockscreen link="classificativerating" h1="Atenção" i="Tenha certeza de ver a Classificação Indicativa deste vídeo" img="classificativerating.png"></blockscreen></ti>
+
+- Language variables
+- Video
+
+USV 0.1:
+
+<contain> tag, for video
+audio.json and audio folder, can play more than one audio from the same begin and set in which time each audio stops (USV 2.0)
+blockscreens (USV 2.1)
+blockscreen msc
+loop msc
+like/dislike button (USV 2.1)
+multilanguage for audio folder, video metadata, thumbnail and XML (USV 3.0)
+Blockscreen with GIF and items (if like and subs, show also dslk and unsbs) can also use other gifs and audios (USV 3.0)
+CSS animations (USV 3.0)
+subscribe button
+
+cards, annotations, links of videos/playlists/channels, endscreens (USV 2.1)
+ZN optional files
+
+USV 0.2
+video's README.md (wk)

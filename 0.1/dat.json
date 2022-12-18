@@ -1,0 +1,28 @@
+{
+"type": "video/usv",
+"url":"dat://400c7940571e5626b53bf757dc93898cfdc2a9a731d8bb7b9e9f6056de4465da",
+"lang":"eo",
+"langs":[
+"en-us","pt-br"
+],
+"title":"The first USV",
+"description":"The very first USV video!",
+"thumbnail":"img/thumbnail.svg",
+"tags":[
+"first","usv","usv format","first video"
+],
+"parentalrating": "o",
+"location":{
+"latitude":"-25.4277802","longitude":"-49.2730598"
+},
+"credits":[
+{
+"info":"This video and the format","author":"Daniell Mesquita"
+}
+],
+"usv-version":"0.1",
+"premium":"no",
+"fiction":"hybrid",
+"license":"https://creativecommons.org/licenses/by/3.0/legalcode",
+"version":"v75"
+}

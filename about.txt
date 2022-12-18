@@ -1,23 +1,56 @@
-USV files needs to be able to be updated when needed, as it stores lots of data.
-But on P2P you can't handle updates of a compressed file.
-Because of it, .USV files will be used just for transfers/downloads. But inside ZN, .USV files will be decompressed and distributed/managed as folders and individual files by data/content.json. git archive will also be used.
+PQS:
 
-USV 0.1:
-license (USV 1.0)
-credits (USV 1.0)
-<contain> tag, for video
-boolean if its paid (USV 1.0)
-boolean if its fictional (or hybrid) (USV 1.0)
-thumbnail (USV 1.1)
-indicative rating (USV 1.1)
-audio.xml and audio folder, can play more than one audio from the same begin and set in which time each audio stops (USV 2.0)
-blockscreens (USV 2.1)
-like/dislike button (USV 2.1)
-subscribe button, cards, annotations, links of videos/playlists/channels, endscreens (USV 2.1)
-video original language (USV 2.1)
-multilanguage for audio folder, video metadata, thumbnail and XML (USV 3.0)
-Blockscreen with GIF and items (if like and subs, show also dslk and unsbs) can also use other gifs and audios (USV 3.0)
-CSS animations (USV 3.0)
+- Icon/Logo (Colored, Black, White, Hybrid-SVG)
+- Logotype
+- Covers/Thumbnails
+- Scl: Riot.im, GitLab, Twitter, Mastodon
+- Subscribe: chat news, RSS
+- Manifesto
+- DAO
+- TLD domain
+- Email addresses
+- Donation
+- Bakers
+- Granted by
+- License
+- Git: README.MD useful resources such as contributing.md
+
+App:
+- Web notifications
+- Wizard
+
+
+YN:
+update: git push, Dat, ZN, IPFS, Swarm, FTP upload
+https://github.com/HelloZeroNet/ZeroNet/issues/1669#issuecomment-452172201
+
+ABCS
+
+FMWK: <li> selection
+
+
+Added Web Archive (@internetarchive) to our supported projects.
+
+We're signaling interest in Cap’n Proto (@capnproto) for our supported projects.
+
+NDtLPeFGaN4sS2SWJ1G89RqNTY4xoGsJmr
+
+
+d/gamachine
+d/thornranger
+d/scooper
+d/tamaskocsis
+d/krixano
+d/kxoid
+d/kxonet
+d/kiwipedia
+d/kxovid
+
+transf back domains
+
+Gitignore on USV
+Clone functions for Dat
+Dat optional files (alongside its ignore)
 
 USV 1.0:
 Supports loop videos (USVL)
@@ -53,7 +86,7 @@ USV opt-PNG bg-clipping: 1,19 MB
 GIF strip/sprite: 1,58 MB
 
 Workaround to achieve 359 KB and lower:
-Convert JPG to background-clipping image and apply chromakey color over transparent, and convert it to BMP/WEBP
+Convert JPG to background-clipping image and apply chromakey color over transparent, and convert it to BMP
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats
 https://m.slashdot.org/story/346584
@@ -77,11 +110,7 @@ Have original, but edit the SQCIF and export to all other
 
 
 XML format for video infos
-First USV, working as a GIF
 PoC player reading USV video infos and showing its frames
-
-
-
 
 Then, the next step will be USV videos with audio and annonations/blockscreen at marked time
 And also XML subtitles and custom audios for localization
@@ -102,12 +131,9 @@ https://gateway.pinata.cloud/ipfs/QmTcZtiKT4Pyw4uuEmnHwU4uzL2tqibY1veEiBtqRxiaHo
 TIM Act
 Kxo
 Google and its SPDY
-FMWK ZN plugin message
-
-npm-audit
 
 
-
+I:\C\rec tw\new\new rec app\ct\vz\Nova pasta\new\new\vz orrrrrrr\Nova pasta\new\bqr\bairro alt - emrs wlkmn - psml\new\vldr\VLDR, IMP\New\New folder\VLDR Emer defend\new
 
 
 
@@ -162,12 +188,6 @@ http://127.0.0.1:43110/1LULE6frq3kw2vbhe4i6ArUTo4YT99Czbj/?Topic:1_136Hmmoi4fsnW
 http://127.0.0.1:43110/1LULE6frq3kw2vbhe4i6ArUTo4YT99Czbj/?Topic:2_136Hmmoi4fsnWBLgT9ij3KKgodsHmrTGY6
 
 http://127.0.0.1:43110/1LULE6frq3kw2vbhe4i6ArUTo4YT99Czbj/?Topic:3_136Hmmoi4fsnWBLgT9ij3KKgodsHmrTGY6
-
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RPBWBDBKW62AC
-
-https://www.mercadopago.com.br/ajuda/telefone-contato/sac
-
-http://web.archive.org/web/20190511212750/https://www.mercadolivre.com.br/ajuda/ayuda/contactForm?form_id=173
 
 I:\C\rec tw\new\new rec app\ct\vz\Nova pasta\new\new\vz orrrrrrr\Nova pasta\new\bqr\bairro alt - emrs wlkmn - psml\new\vldr\VLDR, IMP\New\New folder\VLDR Emer defend
 C:\Users\Notebook Positivo\Desktop\USV blog\new

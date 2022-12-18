@@ -1,0 +1,5 @@
+https://codemyui.com/broken-and-out-of-focus-text-effect-using-css/
+https://github.com/lmgonzalves/segment https://github.com/lmgonzalves/letters
+https://github.com/lmgonzalves/path-slider
+https://github.com/lmgonzalves/pieces https://github.com/lmgonzalves/pieces-slider
+https://github.com/lmgonzalves/splash-transition

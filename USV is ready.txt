@@ -1,0 +1,10 @@
+1. First Video ...
+2. Player ...
+3. Editor
+4. Editor's dubber assistant
+5. Editor generates USV
+6. Export to Dat and IPFS
+
+updated site
+README.md
+docs
